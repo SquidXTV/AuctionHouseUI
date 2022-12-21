@@ -1,0 +1,8 @@
+name: AuctionHouseUI
+version: '1.0'
+main: me.squidxtv.auctionhouseui.AuctionHouseUI
+api-version: 1.19.2
+prefix: AuctionHouseUI
+authors: [ SquidXTV ]
+depend: [ FrameUI ]
+description: ToDo
